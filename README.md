@@ -1,8 +1,11 @@
 # weather_app
 
 A new Flutter project.
-![Uploading watherApp.jpg…]()
 
+![watherApp](https://github.com/hungrybear6856/WeatherApp/assets/64867683/16262c58-1900-4239-8de3-a71e805edded)
+
+
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
